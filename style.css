@@ -1,0 +1,124 @@
+.main{
+    margin: auto;
+    width: 1325px;
+    height: auto;
+}
+.headerr{
+    background-color: pink;
+    /* margin-top: 0px; */
+}
+.heading_image{
+    background-color:none;
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 200px;
+}
+.heading_section{
+    height: 150px;
+    background-color: yellow;
+}
+.under_heading{
+    height: 60px;
+    background-color: blue;
+    border: 1px solid blue;
+}
+.main_heading{
+    background-color:none;
+    color: red;
+    font-size: 120px;
+    text-align: center;
+    font-style: italic;
+    float: right;
+    inset-inline: 1;
+    margin-right:40px;
+    /* font-stretch: expanded; */
+    /* text-shadow:0rcap; */
+    /* text-orientation: initial; */
+}
+.navbar{
+    width:1020px;
+    height: 50px;
+    margin-left: 300px;
+    color: aquamarine;
+    border: 2px solid yellow;
+    float: left;
+    padding-bottom: 6px;
+}
+/* .first_element{
+    margin-left: 400px;
+} */
+.menu_bar{
+    color: white;
+    float: left;
+    margin-left: 50px;
+    /* margin-right: 85.4px; */
+    margin-top: 3px;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    list-style-type: none;
+    text-decoration: none;
+    border: 2px dotted green;
+    padding: 2px 2px 2px 2px;
+}
+.seperator{
+    color: white;
+    float: left;
+    /* margin-right: 140px; */
+    margin-left: 30px;
+    margin-top: 3px;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    list-style-type: none;
+    text-decoration: none;
+    /* border: 2px dotted green; */
+    padding: 2px 2px 2px 2px;
+}
+a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.intro{
+    width: auto;
+    color:blue;
+    background-color: tomato;
+    height: 90px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    border: 4px dashed navy;
+    text-align: auto;
+    text-shadow: 6px 5px 6px black;
+
+}
+.img_div{
+    height: 400px;
+    width: 600px;
+    background-color: aqua;
+    float: left;
+}
+.welcome_note{
+color:darkblue;
+background-color: greenyellow;
+font-size: 20px;
+width: 725px ;
+height: 400px;
+float: left;
+overflow-y: scroll;
+/* display: contents; */
+}
+.feature{
+    font-size: 30px;
+    background-color: darkblue;
+    color: silver;
+float: left;
+}
+.bottom_info{
+    color: darkred;
+    font-size: 20px;
+    float: left;
+}
+.offer{
+    background-color: aqua;
+    color: blue;
+    font-size: 30px;
+    float: left;
+}
